@@ -1,4 +1,4 @@
-require("dotenv").config();
+require("./src/server");
 
 const express = require("express");
 const helmet = require("helmet");
